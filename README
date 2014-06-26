@@ -1,0 +1,26 @@
+** Basic Programs For Finding Cuts and Seperators in Undirected Graphs** 
+
+* File and list of functions 
+
+
+
+* TODO list
+
+# Basic functions
+
+Ford-Fulkerson algorithm for finding minimum cut
+Find Open Neighbourhood for given set S
+Find Closed Neighbourhood for given set S
+Check whether the set is connected or not
+For given R, find \delta(R) which is set of edges with exactly one end point in R.
+
+
+# More specialized functions
+
+Given two sets, find important seperator of the size at most k
+Given two sets, list important seperators of the size at most k
+Given graph G, set A, check whether A is (q, k) unbreakable or not.
+Given graph G, set A if (q, k) is breakable, output witnessing seperators.
+Given graph G and set S, find set C of all the inlusion wise maximal chips.
+Give two chips C1 and C2, find do they touch each others or now.
+
